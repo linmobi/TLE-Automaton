@@ -3,7 +3,7 @@
 
 Luogu情况如下
 
-![我的练习情况](https://luogu.wao3.cn/api/practice?id=438544&card_width=400)
+![我的练习情况](https://luogu.wao3.cn/api/practice?id=438544)
 
 Github情况如下
 
